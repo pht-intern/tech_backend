@@ -1,0 +1,5 @@
+.env
+requirements.txt
+passenger_wsgi.py
+venv/
+__pycache__/
