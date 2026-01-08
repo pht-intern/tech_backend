@@ -1,0 +1,22 @@
+# Flask Core
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# CORS
+flask-cors==4.0.0
+
+# Database
+SQLAlchemy==2.0.23
+Flask-SQLAlchemy==3.1.1
+
+# Serialization & Validation
+marshmallow==3.20.1
+
+# Environment
+python-dotenv==1.0.0
+
+# Database Driver
+PyMySQL==1.1.0
+
+# Rate Limiting
+Flask-Limiter==3.5.0
